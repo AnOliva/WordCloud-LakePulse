@@ -6,7 +6,7 @@ Correspondence: anais.oliva@usherbrooke.ca
 
 ## Overview - Usage
 
-A WordCloud analysis was performed on 27 papers published or preprinted by Lake Pulse members.
+A WordCloud analysis was performed on 27 papers published or preprinted by Lake Pulse members in R.
 The input text included titles, abtracts and keywords.
 
 This work was included in the final Lake Pulse report.
@@ -25,7 +25,7 @@ After using *2_text_gram_analysis.R*, a manual cleaning of the output file *2ngr
 
 ## Notes
 
-Packages used:
+R packages used:
 
 *wordcloud*
 
