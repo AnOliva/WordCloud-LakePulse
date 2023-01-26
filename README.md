@@ -12,6 +12,8 @@ The input text included titles, abtracts and keywords.
 
 This work was included in the final Lake Pulse report.
 
+![This is an image](https://github.com/AnOliva/WordCloud-LakePulse/blob/main/results/wordcloud_LP_2ngram.png)
+
 ## Folder content
 
 LP_papers_short.txt: The input text which include titles, abtracts and keywords of the articles.
