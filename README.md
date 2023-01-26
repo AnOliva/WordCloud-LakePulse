@@ -7,11 +7,12 @@ Correspondence: anais.oliva@usherbrooke.ca
 ## Overview - Usage
 
 A WordCloud analysis was performed on 27 papers published or preprinted by Lake Pulse members in R.
+
 The input text included titles, abtracts and keywords.
 
 This work was included in the final Lake Pulse report.
 
-## Script contents
+## Folder content
 
 LP_papers_short.txt: The input text which include titles, abtracts and keywords of the articles.
 
