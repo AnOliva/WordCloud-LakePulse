@@ -26,14 +26,23 @@ After using *2_text_gram_analysis.R*, a manual cleaning of the output file *2ngr
 ## Notes
 
 Packages used:
+
 *wordcloud*
+
 *tm*
+
 *stringr*
+
 *tibble*
+
 *tidytext*
+
 *dplyr*
+
 *tidyr*
 
 ## References
+
 Basic wordcloud in R: https://r-graph-gallery.com/15-wordcloud
+
 n-gram analysis: https://books.psychstat.org/textmining/word-frequency.html
