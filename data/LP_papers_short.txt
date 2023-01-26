@@ -1,0 +1,597 @@
+A framework for 210Pb model selection and its application to
+37 cores from Eastern Canada to identify the dynamics and
+drivers of lake sedimentation rates
+
+Lake sedimentation rate represents a synthetic metric of ecosystem functioning. Many localized studies have reported a significant association between LULC/LULC changes and lake sediment mass accumulation rates, with a few global syntheses echoing these findings at larger scales. In the literature, studies evaluating lead 210 (210Pb) for establishing sediment chronologies will report at least one of three dating models, but the CRS model is the most widely used. However, it is often unclear how or why this model is selected, despite its influence on the interpretation of many subsequent analyses about ecosystem dynamics and functioning. It would thus be advantageous to design an objective and semi automated way of choosing among dating models. We measured radioisotopic activities in 37 sediment cores across four ecozones of Eastern Canada and developed an approach to assess model fit for the three commonly applied dating models. The derived chronologies were then used to evaluate the spatial and temporal variation in sedimentation rates across four ecozones in Canada (covering a surface area of 2.2 _ 106 km2). We
+observed a recent increase in lake sedimentation rates across most lakes, as has been
+observed globally, albeit with significant differences in the magnitude of sedimentation
+rates across ecozones. Across all lakes, we found that regional human population
+counts and mean annual air temperatures were significant temporal predictors of variation
+in mass accumulation rates. Overall, this analytical framework offers an objective
+approach for assessing fit and selecting among sediment age models, which contributes
+to a more robust quantification of sedimentation rates. With this first application,
+we provide a quantitative assessment of how lake sedimentation rates have varied
+across a northern lake rich region and have responded to environmental change.
+210Pb, CFCS, CIC, CRS, dating models, LULC, paleolimnology, radiochronology, sedimentation
+Rates
+
+
+Climate change and nutrient enrichment altering sedimentary diatom
+assemblages since pre industrial time: evidence from Canada’s most
+populated ecozone
+Lakes worldwide are under threat by a myriad of environmental stressors that have been increasing in number and magnitude. These stressors can be
+regional such as climate change, or local such as nutrient rich runoff, invasive species, and road salt contamination, to name but a few. To protect lake
+ecosystems from further deterioration, we need long term data to define pre disturbance baselines and to identify stressors that are causing the greatest
+ecological changes. Paleolimnology is an effective approach to reconstruct limnological history, providing an important window of lake changes through time.
+Here, we applied paleolimnological tools to explore the pre industrial and contemporary diatom assemblage changes of 27 lakes located in the most
+populated ecozone in Canada, the Mixedwood Plains. We also examined a full sediment core for Lac des Chicots (Southern Québec), aiming to disentangle
+the impacts of natural versus anthropogenic interactions and to assess their relative effects on the lake’s biotic structure. Our ordination analysis suggests
+that the Mixedwood Plains lakes have experienced varying lake specific ecological changes over the past ~ 150 years, with two major trends across most
+study lakes: (1) a prevalent increase in planktic species, and (2) a rise in mesotrophic/eutrophic taxa in lakes receiving high human impacts. Our case study of
+Lac des Chicots identifies ecological impacts from both historical natural events and recent human activities, such as cultural eutrophication and climate
+warming. Overall, our study demonstrates that lakes in the Mixedwood Plains ecozone have experienced marked ecological changes that are mainly
+Paleolimnology, Diatoms, Nutrients, Climate change, Mixedwood Plains, Canada
+associated with human impacts.
+
+
+Aquatic particulate absorption coefficient combining extraction
+and bleaching optimized for inland waters
+The particulate absorption coefficient is one of the fundamental inherent optical properties describing interactions
+of light with material in water. Its spectral properties contain important information about chemical
+and biological constituents. It is often partitioned into algal and non algal fractions which provide useful
+information describing phytoplankton. Particulate absorption coefficient has been routinely measured in the
+ocean particularly to calibrate remote sensing algorithms. However, the methods to measure marine algal and
+non algal absorbing fractions might fail in freshwaters due to difficulties extracting green algae pigments and
+cyanobacterial phycocyanin and the high organic content of the non algal particles, making direct bleaching
+biased. In this work, we describe a method with sequential extraction, bleaching, and post processing to obtain
+unbiased pigments and non algal absorption fractions in freshwater environments, and we compare it against
+the resulting fractions obtained by only extraction or bleaching, using samples collected from 649 lakes across
+Canada. The resulting non algal particles spectra from our method appear free of interfering pigments while
+maintaining spectral shapes, as verified by the higher correlation coefficient between the 400 and 700nm exponential
+coefficient (S, often referred to as slope) of the non algal particles spectra and the organic fraction of
+TSS, and by having a better correlation between the ratio of absorption coefficient of
+phytoplankton at 620 and 676nm and cyanobacterial biomass percentage. Overall, this method solves the two
+problems in freshwater particulate absorption partitioning associated with (1) unextracted pigments with
+methanol extraction methods and (2) bias introduced to non algal absorption spectra from NaOH bleaching.
+
+
+Landsat 8 Lake Water Clarity Empirical Algorithms: Large Scale
+Calibration and Validation Using Government and Citizen
+Science Data from across Canada
+Water clarity has been extensively assessed in Landsat based remote sensing studies of
+inland waters, regularly relying on locally calibrated empirical algorithms, and close temporal
+matching between field data and satellite overpass. As more satellite data and faster data processing
+systems become readily accessible, new opportunities are emerging to revisit traditional assumptions
+concerning empirical calibration methodologies. Using Landsat 8 images with large water clarity
+datasets from southern Canada, we assess: (1) whether clear regional differences in water clarity
+algorithm coefficients exist and (2) whether model fit can be improved by expanding temporal
+matching windows. We found that a single global algorithm effectively represents the empirical
+relationship between in situ Secchiand the Landsat 8 Blue/Red band ratio across
+diverse lake types in Canada. We also found that the model fit improved significantly when applying
+a median filter on data from ever wider time windows between the date of in situ SECCHI sample and
+the date of satellite overpass. The median filter effectively removed the outliers that were likely
+caused by atmospheric artifacts in the available imagery. Our findings open new discussions on the
+ability of large datasets and temporal averaging methods to better elucidate the true relationships
+between in situ water clarity and satellite reflectance data.
+Landsat 8; OLI; Secchi disk depth; water clarity; Canadian lakes; empirical algorithm
+
+Assessing the current water clarity status of 100,000 lakes across southern
+Canada: A remote sensing approach
+Remote sensing offers opportunities to assess
+water quality in unsampled lakes.
+Water clarity was interpolated in approximately
+100,000 lakes in southern Canada.
+Ecozone, geologic substrate, and lake
+depth influence spatial patterns in clarity.
+High human impact areas tend to have
+lower clarity lakes.
+The method offers first glimpse of water
+quality in most Canadian lakes.
+Lakes
+Landsat 8 OLI
+Spatial variability
+Secchi depth
+Water clarity
+Canada has more lakes than any other country, making comprehensive monitoring a huge challenge. As more and more
+satellite data become readily available, and as faster data processing systems make massive satellite data operations possible,
+new opportunities exist to use remote sensing to develop comprehensive assessments of water quality at very large
+spatial scales. In this study, we use a published empirical algorithm to estimate Secchi depth from Landsat 8 reflectance
+data in order to estimate water clarity in lakes across southern Canada. Combined with ancillary information on lake
+morphological, hydrological, and watershed geological and LULC characteristics, we were able to assess broad spatial
+patterns in water clarity for the first time. Ecological zones, underlying geological substrate, and lake depth had particularly
+strong influences on clarity across the whole country. Lakes in western mountain ecozones had significantly
+clearer waters than those in the prairies and plains, while lakes in sedimentary rock formations tended to have lower
+clarity than lakes in intrusive rock. Deep lakes were significantly clearer than shallow lakes over most of the country.
+Water clarity was also significantly influenced by human impact (urbanization, agriculture, and industry) in the watershed,
+With most lakes in high impact areas having low clarity or very low clarity. Finally, we used in situ measured data
+to help interpret the underlying optical water column constituents influencing clarity across Canada, and found that
+chlorophyll a, TSS, and color dissolved organic matter all had strong but varying underlying effects
+on water clarity across different ecozones. This research provides an important step towards further research on the relationship
+between water column optical properties and the health and vulnerability status of lakes across the country.
+
+Sediment Metagenomes as Time Capsules of Lake
+Microbiomes
+The reconstruction of ecological time series from lake sediment archives
+can retrace the environmental impact of human activities. Molecular genetic approaches
+in paleolimnology have provided unprecedented access to DNA time series,
+which record evidence of the microbial ecologies that underlaid historical lake
+ecosystems. Such studies often rely on single gene surveys, and consequently, the
+full diversity of preserved microorganisms remains unexplored. In this study, we
+probed the diversity archived in contemporary and preindustrial sediments by comparative
+shotgun metagenomic analysis of surface water and sediment samples from
+three eastern Canadian lakes. In a strategy that was aimed at disentangling historical
+DNA from the indigenous sediment background, microbial preservation signals were
+captured by mapping sequence similarities between sediment metagenome reads
+and reference surface water metagenome assemblies. We detected preserved Cyanobacteria,
+diverse bacterioplankton, microeukaryotes, and viruses in sediment metagenomes.
+Among the preserved microorganisms were important groups never before
+reported in paleolimnological reconstructions, including bacteriophages (Caudovirales)
+and ubiquitous freshwater Betaproteobacteria (Polynucleobacter and Limnohabitans).
+In contrast, ultramicroscopic Actinobacteria (“Candidatus Nanopelagicales”) and Alphaproteobacteria
+(Pelagibacterales) were apparently not well preserved in sediment
+metagenomes even though they were numerically dominant in surface water metagenomes.
+Overall, our study explored a novel application of whole metagenome shotgun
+sequencing for discovering the DNA remains of a broad diversity of microorganisms preserved
+in lake sediments. The recovery of diverse microbial time series supports the taxonomic
+expansion of microbiome reconstructions and the development of novel microbial
+paleoindicators. Lakes are critical freshwater resources under mounting pressure from
+climate change and other anthropogenic stressors. The reconstruction of ecological
+time series from sediment archives with paleolimnological techniques has been
+shown to be an effective means of understanding how humans are modifying lake
+ecosystems over extended timescales. In this study, we combined shotgun DNA sequencing
+with a novel comparative analysis of surface water and sediment metagenomes
+to expose the diversity of microorganisms preserved in lake sediments. The
+detection of DNA from a broad diversity of preserved microbes serves to more fully
+reconstruct historical microbiomes and describe preimpact lake conditions.
+paleolimnology, shotgun sequencing, metagenomics, DNA preservation,
+paleogenomics, bacterioplankton, viruses
+
+Genome resolved community structure and function of freshwater bacteria at a continental scale
+
+Lakes are highly heterogenous ecosystems inhabited by a rich microbiome whose genomic diversity
+remains poorly defined compared to other major biomes. Here, we present a continental scale study of
+metagenomes collected across one of the most lake rich landscapes on Earth. Analysis of 308 Canadian
+lakes resulted in a MAG catalogue of 1,008 bacterial genomospecies
+spanning a broad phylogenetic and metabolic diversity. Lake trophic state was a significant determinant
+of taxonomic and functional turnover of MAG assemblages. We detected a role for resource availability,
+particularly carbohydrate diversity, in driving biogeographic patterns. Coupling the MAG catalogue with
+geomatics information on watershed characteristics revealed an influence of soil properties and human
+LULC on MAG assemblages. Agriculture and human population density were particularly influential on
+MAG functional turnover, signifying a detectable human footprint in lake bacterial communities. Overall,
+the Canadian lake MAG catalogue greatly expands the freshwater microbial genomic landscape, bringing
+us closer to an integrative view of bacterial genome diversity across Earth’s biomes.
+
+Protist Diversity and Metabolic Strategy in Freshwater Lakes Are
+Shaped by Trophic State and Watershed LULC on a
+Continental Scale
+Protists play key roles in aquatic food webs as primary producers, predators,
+nutrient recyclers, and symbionts. However, a comprehensive view of protist
+diversity in freshwaters has been challenged by the immense environmental heterogeneity
+among lakes worldwide. We assessed protist diversity in the surface waters
+of 366 freshwater lakes across a north temperate to subarctic range covering nearly
+8.4 million km2 of Canada. Sampled lakes represented broad gradients in size,
+trophic state, and watershed LULC. Hypereutrophic lakes contained the least
+diverse and most distinct protist communities relative to nutrient poor lakes. Greater
+taxonomic variation among eutrophic lakes was mainly a product of heterotroph
+and mixotroph diversity, whereas phototroph assemblages were more similar under
+high nutrient conditions. Overall, local physicochemical factors, particularly ion and
+nutrient concentrations, elicited the strongest responses in community structure, far
+outweighing the effects of geographic gradients. Despite their contrasting distribution
+patterns, obligate phototroph and heterotroph turnover was predicted by an
+overlapping set of environmental factors, while the metabolic plasticity of mixotrophs
+may have made them less predictable. Notably, protist diversity was associated
+with variation in watershed soil pH and agricultural crop coverage, pointing to
+human impact on the land water interface that has not been previously identified in
+studies on smaller scales. Our study exposes the importance of both within lake and
+external watershed characteristics in explaining protist diversity and biogeography,
+critical information for further developing an understanding of how freshwater lakes
+and their watersheds are impacted by anthropogenic stressors. Freshwater lakes are experiencing rapid changes under accelerated anthropogenic
+stress and a warming climate. Microorganisms underpin aquatic food webs, yet
+little is known about how freshwater microbial communities are responding to human
+impact. Here, we assessed the diversity of protists and their myriad ecological roles in
+lakes varying in size across watersheds experiencing a range of LULC pressures by
+leveraging data from a continental scale survey of Canadian lakes. We found evidence
+of human impact on protist assemblages through an association with lake trophic state
+and extending to agricultural activity and soil characteristics in the surrounding watershed.
+Furthermore, trophic state appeared to explain the distributions of phototrophic
+and heterotrophic protists in contrasting ways. Our findings highlight the vulnerability
+of lake ecosystems to increased LULC and the importance of assessing terrestrial
+interfaces to elucidate freshwater ecosystem dynamics.
+microbial eukaryotes, trophic state, plankton, phototrophy, heterotrophy,
+mixotrophy, human impact
+
+
+ Multi trophic level responses to environmental stressors over the past 150 years: Insights from a lake rich region of the world
+
+
+ Beta diversity Paleolimnology Diatoms Chironomids Cladocerans Canada
+
+ Multiple stressors affect water quality and biodiversity in lakes worldwide. However, our understanding of which combinations of stressors are of greatest impact and how lakes have shifted from their pre industrial baselines is fragmented. Questions remain regarding how multiple trophic groups are affected by global change stressors and whether region specific differences need to be considered. Here, we apply multiple factor analyses together with latent variable modeling to quantify potential interactions within and among taxa that span multiple trophic levels (i.e. diatoms, cladocerans and chironomids) to improve our understanding of paleo environmental dynamics from a suite of Canadian lakes spanning four ecozones: the Boreal Shield, the Mixedwood Plains, the Atlantic Highlands, and the Atlantic Maritimes. Across all ecozones, multi trophic assemblages were distinguished in a multiple factor analysis along a land use gradient, with mesotrophic/eutrophic diatoms and profundal chironomids tolerant of low bottom water oxygen concentrations recorded in more disturbed sites. Functional units across three indicator groups formed distinct networks of co responses to key environmental and land use gradients, although cladocerans seemed to be driven by additional (i.e., residual) gradients. Applying a temporal beta diversity approach between modern and pre industrial assemblages, we detected significantly greater turnover of diatom functional groups in high versus low human impact sites (p = 0.03, n = 57), with similar but non significant trends apparent with the chironomid and cladoceran groups. Ecozonal differences in temporal turnover were also evident in diatom (p = 0.003, n = 57) and chironomid functional groups (p = 0.04, n = 41). The ecozonal differences may be partially due to differential sensitivities of the pre industrial assemblages and may also be driven by historical disturbances. Our work highlights how the magnitude and direction of ecological change vary across ecozones and can modify responses to human impacts, with a general trend of higher species turnover in sites with greater human disturbance.
+
+Pervasive changes in algal indicators since pre industrial times:
+A paleolimnological study of changes in primary production and diatom
+assemblages from 200 Canadian lakes
+Diatoms
+Chlorophyll a
+Planktonic
+Climate change
+Sediment
+Human impact
+Top bottom
+A 201 lake dataset from across Canada
+was investigated for changes in algal
+groups
+Diatom assemblages and sedimentary
+Chlorophyll a were examined in topbottom
+pairs
+Increasing trend in planktic diatoms and
+primary production since the preindustrial,
+consistent with climate change
+impacts
+Lakes with greater human impacts
+showed greater temporal turnover in the
+diatoms
+Potential climate and LULC impacts
+modified by local and ecozonal variation
+
+Anthropogenic stressors affect lakes around the world, ranging in scale from catchment specific pollutants to the global
+impacts of climate change. Canada has a large number and diversity of lakes, yet it is not well understood how, where,
+and when human impacts have affected these lakes at a national scale. The NSERC Canadian LakePulse Network
+sought to create the first nationwide database of Canadian lake health, undertaking a multi year survey of 664 lakes
+spanning 12 ecozones across Canada. A key objective of the network is to determine where, by how much, and why
+have Canadian lakes changed during the Anthropocene. To address this objective, we compared sedimentary chlorophyll
+a and diatoms from modern and pre industrial sediment intervals of ~200 lakes. The lakes spanned a range of
+sizes, ecozones, and degrees of within catchment LULC change. We inferred the quantity of Chlorophyll a, its isomers
+and main diagenetic products using visible reflectance spectroscopy. We found widespread increases in primary
+production since pre industrial times. Primary production increased, on average, across all ecozones, human impact
+classes, and stratification classes. Likewise, an increase in planktonic diatom taxa over time was detected in the majority
+of sampled lakes, likely due to recent climate warming. However, regional factors (ecozones) explained the most
+variation in modern diatom species assemblages as well as their temporal turnover. Furthermore, lakes with high
+human impact (i.e., higher weighted proportions of human LULC in the catchment) exhibited greater taxonomic
+turnover than lakes with a low human impact class. The greatest diatom turnover was found in the agriculture rich Prairies and the lowest in the sparsely populated Boreal Shield and Taiga Cordillera ecozones. Overall, our study highlights
+that drivers operating at different geographic scales (i.e., climatic and land use changes) have led to significant
+alterations in algal indicators since pre industrial times across the country.
+
+The NSERC Canadian LakePulse Network: A national assessment of lake
+health providing science for water management in a changing climate
+
+About 90% of Canada's municipal drinking
+water supplies are from surface waters.
+An academic government group is providing
+the first national review of lake
+health.
+Over 100 variables were sampled at
+about 680 lakes across Canada.
+Topics range from greenhouse gases to
+emerging contaminants to invasive
+pathogens.
+The impacts of land use and climate
+changes on lake health are also studied.
+Limnology
+Lake health
+Canadian lakes
+Climate change
+Freshwater
+The distribution and quality of water resources vary dramatically across Canada, and human impacts such as
+land use and climate changes are exacerbating uncertainties in water supply and security. At the national
+level, Canada has no enforceable standards for safe drinking water and no comprehensive water monitoring program
+to provide detailed, timely reporting on the state of water resources. To provide Canada's first national assessment
+of lake health, the NSERC Canadian LakePulse Network was launched in 2016 as an academic government
+research partnership. LakePulse uses traditional approaches for limnological monitoring as well as
+state of the art methods in the fields of genomics, emerging contaminants, greenhouse gases, invasive pathogens,
+paleolimnology, spatial modelling, statistical analysis, and remote sensing. A coordinated sampling program
+of about 680 lakes together with historical archives and a geomatics analysis of over 80,000 lake
+watersheds are used to examine the extent to which lakes are being altered now and in the future, and how
+this impacts aquatic ecosystem services of societal importance. Herein we review the network context, objectives
+and methods.
+
+Multiple Images Improve Lake CDOM Estimation: Building
+Better Landsat 8 Empirical Algorithms across Southern Canada
+CDOM(CDOM) is an important water property for lake
+management. Remote sensing using empirical algorithms has been used to estimate CDOM, with
+previous studies relying on coordinated field campaigns that coincided with satellite overpass.
+However, this requirement reduces the maximum possible sample size for model calibration. New
+satellites and advances in cloud computing platforms offer opportunities to revisit assumptions
+about methods used for empirical algorithm calibration. Here, we explore the opportunities and
+limits of using median values of Landsat 8 satellite images across southern Canada to estimate
+CDOM. We compare models created using an expansive view of satellite image availability with
+those emphasizing a tight timing between the date of field sampling and the date of satellite overpass.
+Models trained on median band values from across multiple summer seasons performed better
+(adjusted R2 = 0.70, N= 233) than models for which imagery was constrained to a 30 day time window
+(adjusted R2 = 0.45). Model fit improved rapidly when incorporating more images, producing a model
+at a national scale that performed comparably to others found in more limited spatial extents. This
+research indicated that dense satellite imagery holds new promise for understanding relationships
+between in situ CDOM and satellite reflectance data across large areas.
+satellite remote sensing; Landsat 8; OLI; coloured dissolved organic matter; Canadian
+lakes; NSERC Canadian LakePulse Network; empirical algorithm
+
+A large scale assessment of lakes reveals a pervasive signal of land
+use on bacterial communities
+Lakes play a pivotal role in ecological and biogeochemical processes and have been described as “sentinels” of environmental
+change. Assessing “lake health” across large geographic scales is critical to predict the stability of their ecosystem services and
+their vulnerability to anthropogenic disturbances. The LakePulse research network is tasked with the assessment of lake health
+across gradients of LULC on a continental scale. Bacterial communities are an integral and rapidly responding component of
+lake ecosystems, yet large scale responses to anthropogenic activity remain elusive. Here, we assess the ecological impact of
+LULC on bacterial communities from over 200 lakes covering more than 660,000 km2 across Eastern Canada. In addition to
+community variation between ecozones, LULC across Eastern Canada also appeared to alter diversity, community
+composition, and network structure. Specifically, increasing anthropogenic impact within the watershed lowered diversity.
+Likewise, community composition was significantly correlated with agriculture and urban development within a watershed.
+Interaction networks showed decreasing complexity and fewer keystone taxa in impacted lakes. Moreover, we identified
+potential indicator taxa of high or low lake water quality. Together, these findings point to detectable bacterial community
+changes of largely unknown consequences induced by human activity within lake watersheds.
+
+
+ A resistome survey across hundreds of freshwater bacterial communities reveals the impacts of veterinary and human antibiotics use
+
+ Our decreasing ability to fight bacterial infections is a major health concern. It is arising due to the evolution of AMR in response to the mis  and overuse of antibiotics in both human and veterinary medicine. Lakes integrate watershed processes and thus may act as receptors and reservoirs of ARG introduced into the watershed by human activities. The resistome – the diversity of ARG – under varying anthropogenic watershed pressures has been previously studied either focused on few select genes or few lakes. Here, we link the resistome of ~350 lakes sampled across Canada to human watershed activity, trophic status, as well as point sources of ARG pollution including wastewater treatment plants and hospitals in the watershed. A high percentage of the resistance genes detected was either unimpacted by human activity or highly prevalent in pristine lakes, highlighting the role of AMR in microbial ecology in aquatic systems, as well as a pool of genes available for potential horizontal gene transfer to pathogenic species. Nonetheless, watershed agricultural and pasture area significantly impacted the resistome. Moreover, the number of hospitals and the population density in a watershed, the volume of wastewater entering the lake, as well as the fraction of manure applied in the watershed as fertilizer significantly impacted ARG diversity. Together, these findings indicate that lake resistomes are regularly stocked with resistance genes evolved in the context of both veterinary and human antibiotics use and represent reservoirs of ARG that require further monitoring.
+
+ resistome, microbial ecology, next generation sequencing, antibiotic resistance, freshwater
+
+
+ Comparing microscopy and DNA metabarcoding techniques for identifying cyanobacteria assemblages across hundreds of lakes
+
+ Cyanobacteria Microscopy 16s rRNA gene metabarcoding eDNA Freshwater lakes Trophic status Microcystis genotypes
+
+ Accurately identifying the species present in an ecosystem is vital to lake managers and successful bioassessment programs. This is particularly important when monitoring cyanobacteria, as numerous taxa produce toxins and can have major negative impacts on aquatic ecosystems. Increasingly, DNA based techniques such as metabarcoding are being used for measuring aquatic biodiversity, as they could accelerate processing time, decrease costs and reduce some of the biases associated with traditional light microscopy. Despite the continuing use of traditional microscopy and the growing use of DNA metabarcoding to identify cyanobacteria assemblages, methodological comparisons between the two approaches have rarely been reported from a wide suite of lake types. Here, we compare planktonic cyanobacteria assemblages generated by inverted light microscopy and DNA metabarcoding from a 379 lake dataset spanning a longitudinal and trophic gradient. We found moderate levels of congruence between methods at the broadest taxonomic levels (i.e., Order, RV=0.40, p < 0.0001). This comparison revealed distinct cyanobacteria communities from lakes of different trophic states, with Microcystis, Aphanizomenon and Dolichospermum dominating with both methods in eutrophic and hypereutrophic sites. This finding supports the use of either method when monitoring eutrophication in lake surface waters. The biggest difference between the two methods was the detection of picocyanobacteria, which are typically underestimated by light microscopy. This reveals that the communities generated by each method currently are complementary as opposed to identical and promotes a combined method strategy when monitoring a range of trophic systems. For example, microscopy can provide measures of cyanobacteria biomass, which are critical data in managing lakes. Going forward, we believe that molecular genetic methods will be increasingly adopted as reference databases are routinely updated with more representative sequences and will improve as cyanobacteria taxonomy is resolved with the increase in available genetic information.
+
+
+ The occurrence of potentially pathogenic fungi and protists in Canadian lakes predicted using geomatics, in situ and satellite derived variables: Towards a tele epidemiological approach
+
+ Boosted regression tree Eukaryotic pathogen Freshwater Tele epidemiology Public health
+
+ Eukaryotic pathogens including fungi and enteroparasites infect humans, animals and plants. As integrators of landscape catchment, lakes can reflect and record biological and geochemical events or anthropogenic changes and provide useful knowledge to formulate public health, food security and water policies to manage and prevent diseases. In this context, potentially pathogenic fungi and parasites were sampled using 18S rRNA gene amplicon sequencing in 382 lakes displaying a broad range of sizes and human impact on the watershed in 10 ecozones across Canada. Based on pathogen classifications from the ePATHogen database published by the Public Health Agency of Canada, we identified 23 health relevant genera for human and animal hosts, including Cryptococcus and Cryptosporidium. Our study investigated the potential of remote sensing and geomatics to predict microbial contamination in a tele epidemiological approach. We used boosted regression tree modeling to evaluate the probability of occurrence of the most common genera found in our dataset based on 10 satellite derivable, geomatics and field survey variables which could be potential sources or transport mechanisms through the watershed or survival factors in the water. We found that southern ecozones that possess the highest agricultural and pasture activities tend to contain lakes with the largest number of potential pathogens including several fungi associated with plant diseases. Bio optical factors, such as colored dissolved organic matter, were highly related to the occurrence of the genera, potentially by protecting against damage from ultraviolet light. Our results demonstrate the capability of tele epidemiology to provide useful information to develop government policies for recreational and drinking water regulations as well as for food security.
+
+Geospatial analysis reveals a hotspot of fecal bacteria in Canadian
+prairie lakes linked to agricultural NPS
+A fecal multi indicator was built from a cluster of potential bacterial pathogens.
+Agriculture and pasture were related to the abundance of the fecal multi indicator.
+Fecal multi indicator predictions were mapped over 200 212 Canadian lakes.
+Future bio optical satellite estimations might improve predictions at large scale.
+Lakes are sentinels of environmental changes within their watersheds including those induced by a changing
+climate and anthropogenic activities. In particular, contamination originating from point or NPS
+within watersheds might be reflected in changes in the bacterial composition of lake water. We assessed
+the abundance of potentially pathogenic bacteria  sampled in 413 lakes within 8 southern Canadian
+ecozones that represent a wide diversity of lakes and watershed LULC. The study objectives were (1) to explore
+the diversity of POTENTIALLY PATHOGENIC BACTERIA; (2) to build a fecal multi indicator from a cluster of co occurring POTENTIALLY PATHOGENIC BACTERIA; and (3) to predict the
+fecal multi indicator over thousands of lakes. We identified bacterial taxa based on 16S rRNA amplicon
+sequencing and clustered 33 POTENTIALLY PATHOGENIC BACTERIA matching taxa in the Canadian ePATHogen database using a Sørensen
+dissimilarity index on binary data across the sampled lakes. One cluster contained Erysipelothrix, Desulfovibrio,
+Bacteroides, Vibrio and Acholeplasma and was related to the NPS fraction of agriculture and pasture within the
+watershed as its main driver and thus it was determined as the fecal multi indicator. We subsequently developed a fecal multi indicator predictive model across 200 212 southern Canadian lakes which explained 55.1% of the
+deviance. Mapping the predictions showed higher fecal multi indicator abundances in the Prairies and Boreal
+Plains compared to the other ecozones. These results represent the first attempt to map a potential fecal multi indicator
+at the continental scale, which may be further improved in the future. Lastly, the study demonstrates the
+capacity of a multi disciplinary approach leveraging both datasets derived from remote sensing and DNA
+sequencing to provide mapping information for public health governmental policies.
+boosted regression tree; bacteria; pathogens; tele epidemiology; public health; multi indicator
+
+
+ Simultaneous retrieval of selected optical water quality indicators from Landsat 8, Sentinel 2, and Sentinel 3
+
+ Machine learning Water quality Inland and coastal waters OLI MSI OLCI
+
+ Constructing multi source satellite derived water quality products in inland and nearshore coastal waters from the past, present, and future missions is a long standing challenge. Despite inherent differences in sensors’ spectral capability, spatial sampling, and radiometric performance, research efforts focused on formulating, implementing, and validating universal water quality algorithms continue to evolve. This research extends a recently developed machine learning model, i.e., MDN, to the inverse problem of simultaneously retrieving water quality indicators, including Chlorophyll a, TSS, and the absorption by CDOM at 440 nm (acdom(440)), across a wide array of aquatic ecosystems. We use a database of in situ measurements to train and optimize MDNmodels developed for the relevant spectral measurements (400–800 nm) of the OLI, MSI, and Ocean and Land Color Instrument (OLCI) aboard the Landsat 8, Sentinel 2, and Sentinel 3 missions, respectively. Our two performance assessment approaches, namely hold out and leave one out, suggest significant, albeit varying degrees of improvements with respect to second best algorithms, depending on the sensor and water quality indicator (e.g., 68%, 75%, 117% improvements based on the hold out method for Chlorophyll a, TSS, and acdom(440), respectively from MSI  like spectra). Using these two assessment methods, we provide theoretical upper and lower bounds on model performance when evaluating similar and/or out of sample datasets. To evaluate multi mission product consistency across broad spatial scales, map products are demonstrated for three near concurrent OLI, MSI, and OLCI acquisitions. Overall, estimated TSS and acdom(440) from these three missions are consistent within the uncertainty of the model, but Chlorophyll a maps from MSI and OLCI achieve greater accuracy than those from OLI. By applying two different atmospheric correction processors to OLI and MSI images, we also conduct matchup analyses to quantify the sensitivity of the MDN model and best practice algorithms to uncertainties in reflectance products. Our model is less or equally sensitive to these uncertainties compared to other algorithms. Recognizing their uncertainties, MDN models can be applied as a global algorithm to enable harmonized retrievals of Chlorophyll a, TSS, and acdom(440) in various aquatic ecosystems from multi source satellite imagery. Local and/or regional ML models tuned with an apt data distribution (e.g., a subset of our dataset) should nevertheless be expected to outperform our global model.
+
+Evaluation of Atmospheric Correction Algorithms over Lakes
+for High Resolution Multispectral Imagery: Implications of
+Adjacency Effect
+Atmospheric correction of satellite optical imagery over inland waters is a key remaining
+challenge in aquatic remote sensing. This is due to numerous confounding factors such as the
+complexity of water optical properties, the surface glint, the heterogeneous nature of atmospheric
+aerosols, and the proximity of bright land surfaces. This combination of factors makes it difficult to
+retrieve accurate information about the system observed. Moreover, the impact of radiance coming
+from adjacent land (adjacency effects) in complex geometries further adds to this challenge, especially
+for small lakes. In this study, ten atmospheric correction algorithms were evaluated for high resolution
+multispectral imagery of Landsat 8 Operational Land Imager and Sentinel 2 MSI
+using in situ optical measurements from ~300 lakes across Canada. The results of the validation show
+that the performance of the algorithms varies by spectral band and evaluation metrics. The dark
+spectrum fitting algorithm had the best performance in terms of similarity angle (spectral shape),
+while the neural network based models showed the lowest errors and bias per band. However,
+none of the tested atmospheric correction algorithms meet a 30% retrieval accuracy target across
+all the visible bands, likely due to uncorrected adjacency effects. To quantify this process, three dimensional
+radiative transfer simulations were performed and compared to satellite observations.
+These simulations show that up to 60% of the top of atmosphere reflectance in the near infrared bands
+over the lake was from the adjacent lands covered with green vegetation. The significance of these
+adjacency effects on atmospheric correction has been analyzed qualitatively, and potential efforts to
+improve the atmospheric correction algorithms are discussed.
+atmospheric correction; Sentinel 2; Landsat 8; adjacency effect; 3D radiative transfer
+
+Multi scale
+biodiversity analyses identify the importance
+of continental watersheds in shaping lake zooplankton
+biogeography
+We examined variation in crustacean zooplankton composition and diversity
+across Canada, the most lake rich
+country in the world. In addition to alpha diversity
+patterns,
+we explore mechanisms behind beta diversity
+spatial variation, using taxonomic
+and functional metrics. Our goal was to explore geographical gradients and related
+mechanisms shaping zooplankton distribution across different spatial scales.
+Crustacean zooplankton. Canada Pelagic zooplankton was sampled in and characterized for 624 lakes
+across Canada, spanning 12 ecozones (defined by climatic, vegetation and geological
+differences) or 6 continental drainage basins as part of the NSERC Canadian Lake
+Pulse Network project. We compared taxon and trait distributions, as well as spatial
+(longitudinal and latitudinal) patterns of community composition and diversity. We
+computed taxonomic and functional spatial beta diversity
+indices, decomposing these
+into taxon replacement and richness differences. Finally, species (or traits) and lake
+uniqueness (contributions) to beta diversity
+(SCBD and LCBD) were estimated by ecozone
+and continental basin. In all, 90 crustacean zooplankton species were identified across the country.
+Differences in zooplankton taxonomic and functional composition were more distinct
+when considered by continental basin than by ecozone. alpha diversity
+varied greatly
+across space, with greatest diversity in eastern Canada. beta diversity
+was greatest when
+based on taxonomy and was driven by richness differences across all spatial and biodiversity
+dimensions. Structuring factors influencing zooplankton taxon and trait assemblages
+vary across spatial scales, being more important at the broadest scale considering
+continental hydrodynamics. Our results point to the combined effects of physical
+barriers to longitudinal dispersal and climate change in shaping zooplankton taxonomic
+and functional biogeography across Canadian lakes. alpha diversity, beta diversity, biogeography, Canadian lakes, continental divide, ecozone,
+zooplankton
+
+Environmental drivers of taxonomic and functional variation in
+zooplankton diversity and composition in freshwater lakes across
+Canadian continental watersheds
+Canada is home to more lakes than any other nation, but there is a fragmented and limited understanding of the
+ecological status of these water bodies. Zooplankton are excellent bioindicators of lake health, given their central
+food web position. To date, many studies have investigated the effect of individual stressors on zooplankton communities,
+mediated through changes in water quality (e.g., macronutrients, temperature, or chemicals). Increasingly,
+stressors act simultaneously in lakes, often over extended periods of time. As part of the NSERC Canadian LakePulse
+Network project, pelagic zooplankton were sampled in 624 lakes across Canada, spanning six continental drainage
+basins. We evaluated the effect of 40+ environmental variables on zooplankton diversity and community composition,
+considering both taxonomic and functional approaches. We also tested specific hypotheses on the relationships
+between zooplankton communities and environmental conditions, including eutrophication, calcium,
+chloride, and fish predation. We found that lake morphometry variables were among the most important predictors
+of zooplankton diversity, while water quality metrics were more critical in explaining variation in community composition.
+Our results also reveal significant heterogeneity across Canada, with contrasting effects of environmental
+drivers among continental watersheds, highlighting that response models cannot be assumed to apply universally.
+
+Zooplankton assemblage structure and diversity since
+pre industrial
+times in relation to LULC
+While it is now well accepted that human activities are having pronounced effects
+on natural ecosystems, regional variation in the rate and magnitude of various
+human impacts is unclear. Moreover, the effects of LULC change on natural aquatic
+communities have only relatively recently begun to be explored. Our goal was to understand
+how and where assemblages of a central food web component of freshwater
+lakes have changed over the course of industrialization in relation to LULC. Canada. Cladoceran zooplankton As part of the NSERC 
+LakePulse Network, we selected 101 lakes across Canada along a gradient
+of human impact to analyse subfossil cladoceran assemblages from sediment cores.
+We examined relationships between taxonomic and functional indicators of cladoceran
+assemblage change among lakes and through time. Contemporary assemblages were taxonomically and functionally less diverse
+locally relative to pre industrial
+assemblages (alpha diversity)
+and were structured
+by the degree of human impact in watersheds. Local alpha diversity
+losses were greatest
+in highly impacted lakes where agriculture and pasture are prevalent. While spatial
+homogenization (spatial beta diversity)
+did not increase since pre industrial
+times as
+expected, temporal turnover (temporal beta diversity)
+showed a non significant
+but increasing
+trend in highly impacted lakes, especially in urbanized watersheds. Cladoceran assemblages have changed significantly over the
+course of the Industrial period, and especially in more highly impacted watersheds,
+underscoring the important role of watershed LULC in shaping diversity. However,
+indicators of cladoceran function have remained relatively conserved over time and
+LULC change showed little impact on beta diversity,
+despite important environmental
+variation. Overall, this research furthers our understanding of the health status of
+Canadian lakes and the consequences of human activities, especially agriculture and
+urbanization, on lake zooplankton.
+
+Horizon scan of conservation issues for inland waters in
+Canada
+Horizon scanning is a systematic approach increasingly used to explore emerging trends, issues, opportunities, and
+threats in conservation. We present the results from one such exercise aimed at identifying emerging issues that could have
+important scientific, social, technological, and managerial implications for the conservation of inland waters in Canada in the
+proximate future. We recognized six opportunities and nine challenges, for which we provide research implications and policy
+options, such that scientists, policy makers, and the Canadian society as a whole can prepare for a potential growth in each of
+the topic areas we identified. The issues spanned a broad range of topics, from recognizing the opportunities and challenges of
+community enabled science and the need to consider the legal rights of nature, to the likely increase of pharmaceuticals in
+wastewater due to an aging population. These issues represent a first baseline that could help decision makers identify and
+prioritize efforts while simultaneously stimulate new research avenues. We hope our horizon scan will pave the way for similar
+exercises related to the conservation of biodiversity in Canada.
+
+
+ Agricultural and urban LULC explain substantial variation in lake water quality across national scale physiographic and climatic gradients
+
+Despite decades of research and mitigation efforts, declines in freshwater quality resulting from  anthropogenic nutrient input remain a persistent issue worldwide. Canada has the greatest  number of freshwater lakes in the world, yet we have a limited understanding of the magnitude  and scale at which most lakes have been affected by human activities, namely LULC alterations. In response, the NSERC Canadian LakePulse Network has compiled  the first nationwide systematic database of Canadian lake quality metrics by surveying 664 lakes  across 12 ecozones over three years. To assess the influence of human impact on water quality  and its spatial variation across this lake set, we built models quantifying the association between  watershed LULC and physiochemical water parameters. We found that agricultural and urban  LULC explained the greatest proportion of variation in water quality among LULC categories  (R2 = 0.20–0.29), although threshold values of water quality metrics (i.e., concentrations of  major ions, total phosphorus [TP], total nitrogen [TN], dissolved organic carbon [DOC], and  Chlorophyll a [Chl a]) differed among ecozones. Generally, when the percentage of catchment  agricultural LULC exceeded 30–35%, we noted significant increases in TP, TN, DOC, and  Chlorophyll a concentrations. Similarly, when urban LULC surpassed 1–6%, we observed significant  increases in ion concentrations and specific conductance. Overall, our study highlights that while  drivers of water quality may be similar across regions, management strategies for freshwater  ecosystems must consider their geographic context to better predict when and where threshold  responses will occur.
+Agriculture; Canada; eutrophication; lake; urban; water quality.
+
+
+Subfossil Simuliidae track past river flow into an industrially contaminated lake
+Stoco Lake (Tweed, Ontario, Canada) has
+a history of industrial contamination and is heavily
+influenced by inflow from the Moira River. Stoco Lake
+is frequently affected by nuisance algal blooms
+(including cyanobacteria), which have largely been
+attributed to cultural eutrophication. To further our
+understanding of the environmental dynamics of Stoco
+Lake, we applied paleolimnological techniques to
+examine long term trends in subfossil invertebrate
+assemblages, geochemistry, and inferred trends in
+whole lake primary production from a sediment core
+representing * 70 years of environmental history.
+We examined past trends in Simuliidae abundance,
+geochemical variables, and historical river flow
+records to examine past hydrological conditions in
+Stoco Lake. Inferred whole lake primary production
+and sediment core organic content increased between
+the late 1950s and early 1970s, likely reflecting
+increased eutrophication (e.g. from agricultural intensification
+and increased catchment activities), with
+some stabilization in the post 1970s sediments coinciding
+with the installation of a sewage treatment
+plant. The geochemical composition of the core
+highlighted the decrease in catchment derived sediment inputs and an increase in percentage of
+organic content towards the top of the core. In
+addition, declines in the proportion of As and Ni
+coincided with the closure of the upstream Deloro
+Mine Site in the 1960s. Chironomidae and Chaoboridae
+(Diptera) assemblages indicate expansion of
+littoral habitat after the 1960s and a general stability
+of low oxygen conditions in the hypolimnion over the
+past * 70 years. Several Simuliidae (Diptera: Nematocera)
+remains, indicators of fluvial conditions rarely
+discussed in paleolimnological studies, were present at
+their highest abundances in the pre  * 1975 sediments
+of the core, but disappeared after the early
+1990s. Our findings suggest that changes in river flow
+(discharge, velocity, or seasonality) may have contributed
+to recent algal blooms. Overall, this study
+highlights the potential of Simuliidae in paleohydrological
+studies to help understand the role of river flow
+on lake conditions.
+Black flies Paleohydrology
+Chironomidae Nuisance algal blooms Cultural
+Eutrophication
+
+Evaluating Trophic Status as a Proxy
+of Aquatic Ecosystem Service
+Provisioning on the Basis of
+Guidelines
+Ecologists typically associate water quality with trophic status, where oligotrophic is considered excellent and presumably provides more aquatic
+ecosystem services. However, water quality is perceived differently among observers with different worldviews. For example, agriculture and
+public health sectors quantify the provisioning of aquatic ecosystem services on the basis of different guidelines, but are their guidelines breached
+more frequently with increasing productivity? We developed an integrative ecosystem service framework using Canadian guidelines as thresholds
+for drinking, swimming, irrigation, suitability for livestock and aquatic wildlife in rivers. Drinkability was the most sensitive ecosystem service,
+met in 23% of the sampling events, whereas livestock was provided in 99%. Trophic status is a fair proxy for ecosystem services limited by fecal
+contamination, because nutrients are related to human and animal populations but not to those limited by metals. Using guideline thresholds
+to assess the safe provisioning of multiple aquatic ecosystem services across diverse worldviews could facilitate understanding among different
+perspectives.
+ecosystem services, water quality, worldviews, guidelines, aquatic, trophic status, Canadian rivers
+
+Microbiology in the Field:
+Construction and Validation of a
+Portable Incubator for Real Time
+Quantification of Coliforms and
+Other Bacteria
+Performing microbiological assays on environmental samples in field settings poses
+logistical challenges with respect to the availability of suitable equipment or the ability
+to get samples to the laboratory in a timely fashion. For example, the viability of
+some bacteria can decrease greatly between sampling and arrival to the laboratory for
+processing. We developed and constructed rugged, reliable, and cost effective portable
+incubators that were used by 10 independent field teams to perform microbiological
+assays on surface water samples from lakes across Canada. Rigorous testing and
+validation of our incubators ensured that incubation conditions were consistent within and
+across all 10 field teams and 2 sampling years. Samples from all sites were processed
+in duplicate and bacterial counts were highly repeatable within and across sampling
+teams. Bacterial counts were also found to be statistically equivalent to counts obtained
+with standard laboratory techniques using a conventional incubator. Using this method,
+TTC and Escherichia coli were quantified from 432 lakes,
+allowing comparison to both historical datasets that relied on TTCs and those following
+current guidelines that use Escherichia coli counts. We found higher loads at the shoreline than
+the middle of lakes and different patterns between ecozones. Escherichia coli was not frequently
+detected, but many lakes exceeded Canadian guideline values for activities such as
+swimming and some even exceeded the guideline value for secondary recreational
+activities such as boating. To the best of our knowledge, this is the largest bacteriological
+water quality assessment of freshwater lakes to date in terms of both spatial scale and
+the number of lakes sampled. Our incubator design can be easily adapted for a wide
+variety of researcher goals and represents a robust platform for field studies and other
+applications, including those in remote or low resources settings.
+Canadian lakes, freshwater, methods development, environment, Escherichia coli

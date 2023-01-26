@@ -1,0 +1,149 @@
+word,freq
+activities,17
+agriculture,19
+algal,15
+algorithm,22
+alpha diversity,5
+analysis,13
+anthropogenic,12
+aquatic,17
+ARG,5
+assemblage,25
+assessment,17
+atmospheric correction,8
+bacteria,23
+bacterial communities,5
+band,6
+beta diversity,10
+biodiversity,5
+canada,84
+catchment,7
+CDOM,5
+challenge,7
+change,17
+chironomid,5
+chlorophyll,11
+cladoceran,9
+clarity,20
+climate,17
+climate change,9
+coefficient,7
+communities,22
+contamination,5
+continental scale,6
+core,9
+cyanobacteria,10
+data,32
+depth,5
+diatom,17
+diverse,6
+diversity,46
+DNA,11
+driver,6
+eastern canada,5
+ecological,12
+ecosystem,25
+ecosystem services,7
+ecozone,29
+empirical,10
+environmental,18
+eutrophication,7
+explore,6
+factor,10
+fecal,11
+field,10
+food,6
+freshwater,26
+functional,12
+future,5
+gene,8
+geomatics,5
+global,6
+gradient,10
+guideline,9
+health,19
+historical,8
+human,44
+human impact,27
+imagery,13
+impact,45
+incubator,5
+indicator,20
+industrial,14
+information,9
+inland waters,5
+lake,182
+lake health,7
+Lake Pulse,9
+Landsat 8,14
+LULC,26
+MAG,6
+metabarcoding,5
+metagenome,9
+method,21
+metric,6
+microbial,10
+microorganisms,5
+microscopy,7
+mixedwood plains,5
+model,29
+monitoring,7
+MSI,7
+multi indicator,10
+network,15
+NSERC,8
+nutrient,9
+OLI,8
+optical,9
+organic,8
+paleolimnology,13
+past,7
+pasture,5
+pathogen,14
+pre industrial,12
+present,5
+primary production,5
+protist,11
+public health,6
+quality,26
+reflectance,6
+remote sensing,11
+research,11
+resistome,6
+resource,5
+response,9
+results,6
+river,7
+sample,26
+satellite,21
+scale,26
+sediment,25
+sedimentation,8
+sedimentation rates,5
+sentinel,8
+sequencing,7
+service,10
+southern canada,5
+spatial,19
+species,8
+spectral,6
+status,10
+stressors,12
+study,27
+surface water,5
+survey,5
+taxa,8
+taxonomic,12
+techniques,5
+trophic,19
+trophic state,12
+TSS,6
+turnover,11
+urban,5
+variable,7
+variation,16
+water,72
+water clarity,13
+water quality,22
+watershed,36
+zooplankton,20
